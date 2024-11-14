@@ -94,6 +94,7 @@ header .logo h1 {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
     margin-bottom: 2rem;
 }
+
 .content-section h2{
     font-family: 'nowbold';
     font-size: 2.5rem;
@@ -199,6 +200,20 @@ footer {
     background-color: #333;
     color: #fff;
     font-size: 0.9rem;
+}
+.vivelaactividad {
+    display: flex;
+    padding: 1rem;
+
+}
+.formulario{
+    background-color: #e9ecef;
+    text-align: center;
+    color: #68aeb8;
+    padding: 1rem 4rem;
+    max-width: 1000px;
+    border: 0;
+    border-radius: 25px;
 }
 
 footer a {
