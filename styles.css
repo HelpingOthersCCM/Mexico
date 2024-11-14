@@ -179,11 +179,11 @@ header .logo h1 {
 
 /* Estilo de la barra lateral */
 .sidebar {
-    padding: 3rem 10rem;
+    padding: 2rem 5rem;
     background-color: #e9ecef;
     font-size: 1rem;
     color: #333;
-    max-width: 300px;
+    max-width: 600px;
     margin: 2rem auto;
     border-radius: 8px;
 }
