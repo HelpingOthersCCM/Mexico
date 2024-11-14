@@ -101,7 +101,6 @@ header .logo h1 {
 
 /* Estilos generales para la sección de testimonios */
 #testimonio {
-    padding: 2rem;
     background-color: #ffffff;
     margin-top: 2rem;
 }
@@ -179,13 +178,17 @@ header .logo h1 {
 
 /* Estilo de la barra lateral */
 .sidebar {
-    padding: 2rem;
+    padding: 3rem 10rem;
     background-color: #e9ecef;
     font-size: 1rem;
     color: #333;
     max-width: 300px;
     margin: 2rem auto;
     border-radius: 8px;
+}
+.sidebar h2{
+    font-family: 'nowbold';
+    font-size: 2rem;
 }
 
 /* Estilo del pie de página */
