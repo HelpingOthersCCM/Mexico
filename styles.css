@@ -12,11 +12,11 @@
 @font-face {
     font-family: 'nowbold';
     src: url(./font/now.alt-bold.otf);
-}
+} /*now para titulos*/
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 body {
@@ -31,7 +31,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem;
+    padding: 1rem ;
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -45,7 +45,7 @@ header .logo h1 {
 .nav-links {
     list-style: none;
     display: flex;
-    gap: 1.5rem;
+    gap: 1rem;
 }
 
 .nav-links a {
