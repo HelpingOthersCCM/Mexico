@@ -62,12 +62,12 @@ header .logo h1 {
 /* Sección principal y hero */
 
 .hero {
-    background-image: url('DSC02909.JPG');
+    background-image: url('./fotos/Inst1.jpg');
     background-size: cover; /* Asegura que la imagen cubra toda la sección */
     background-position: center; /* Centra la imagen */
     color: #fff; /* Cambia el color del texto para que sea visible sobre la imagen */
     padding: 8rem 1rem;
-    text-align: center;
+    text-align: right;
     margin-bottom: 2rem;
 }
 
